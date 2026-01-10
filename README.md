@@ -1,30 +1,52 @@
- 
- # Hi 👋, I'm Shiraj
+# Hi 👋, I'm Shiraj
 
-🎓 Diploma Student | Frontend Developer  
-💻 React • Next.js • JavaScript  
-🚀 Passionate about building clean & modern UIs
+🚀 MERN Stack Developer  
+🎓 Diploma Student | Frontend-heavy Full Stack  
+💡 Love building scalable web apps & clean UIs
 
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript
+**Frontend**
 - React.js, Next.js
-- Tailwind CSS
+- HTML, CSS, Tailwind CSS
+- JavaScript (ES6+)
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+
+**Database**
+- MongoDB
+
+**Tools**
 - Git & GitHub
+- Vercel, Render
+- Postman
 
 ---
 
 ## 📌 Projects
-- 🍗 Meatzy Chicken Landing Page  
-- 🧮 Calculator App  
-- 🌐 Personal Portfolio  
+- 🍗 **Meatzy Chicken Delivery Landing Page**
+- 💬 **End-to-End Encrypted Chat App (Next.js + MongoDB)**
+- 🧮 **Calculator & Utility Apps**
+- 🌐 **Personal Portfolio Website**
 
 ---
 
-## 📫 Connect with me
-- GitHub: https://github.com/shirajgit
-- LinkedIn: *(add your link)*
+## 📈 Currently Learning
+- Authentication (JWT, Clerk)
+- Real-time apps (Socket.io)
+- System Design basics
 
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/shirajgit
+- LinkedIn: *(add link here)*
+
+---
+
+⭐ *Open to internships & junior MERN roles*
 
  
