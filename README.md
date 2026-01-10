@@ -1,52 +1,87 @@
-# Hi 👋, I'm Shiraj
+# Hey — I'm Shiraj 👋  
+**MERN Stack Developer • Frontend-Focused Full Stack Engineer**
 
-🚀 MERN Stack Developer  
-🎓 Diploma Student | Frontend-heavy Full Stack  
-💡 Love building scalable web apps & clean UIs
+I’m a **MERN developer from India**, passionate about building **real-world web applications** with clean UI, scalable backend, and smooth user experience.
+
+I enjoy taking ideas from **design → development → deployment → users**.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend**
-- React.js, Next.js
-- HTML, CSS, Tailwind CSS
-- JavaScript (ES6+)
+## 🔭 What I’m Working On
+- Building **full-stack MERN applications**
+- Improving **frontend performance & UX**
+- Learning **backend architecture & real-time systems**
+- Exploring **authentication, payments & deployment workflows**
 
-**Backend**
-- Node.js, Express.js
-- REST APIs
+---
 
-**Database**
-- MongoDB
+## 🧠 What I Work On
 
-**Tools**
-- Git & GitHub
-- Vercel, Render
-- Postman
+### 🟣 Product Engineering
+User-focused, production-ready applications  
+- Responsive web apps  
+- Admin dashboards & landing pages  
+- API-driven frontend systems  
+
+### 🟧 Full-Stack Development
+End-to-end MERN solutions  
+- REST APIs with Express  
+- MongoDB data modeling  
+- Frontend ↔ Backend integration  
+
+### 🟩 Deployment & Tools
+Making apps live & usable  
+- Vercel (Frontend)  
+- Render (Backend)  
+- Git & GitHub workflows  
+
+---
+
+## ⚡ Core Competencies
+
+### Frontend
+- React.js, Next.js  
+- JavaScript (ES6+)  
+- HTML, CSS, Tailwind CSS  
+
+### Backend
+- Node.js, Express.js  
+- REST APIs  
+
+### Database
+- MongoDB  
+
+---
+
+## 🛠️ Tech Stack
+- React • Next.js  
+- Node.js • Express  
+- MongoDB  
+- Tailwind CSS  
+- Git & GitHub  
+- Vercel • Render  
 
 ---
 
 ## 📌 Projects
 - 🍗 **Meatzy Chicken Delivery Landing Page**
-- 💬 **End-to-End Encrypted Chat App (Next.js + MongoDB)**
+- 💬 **End-to-End Encrypted Chat App**
 - 🧮 **Calculator & Utility Apps**
 - 🌐 **Personal Portfolio Website**
 
 ---
 
-## 📈 Currently Learning
-- Authentication (JWT, Clerk)
+## 🌱 Currently Learning
+- JWT & modern authentication
 - Real-time apps (Socket.io)
-- System Design basics
+- Better backend architecture
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/shirajgit
-- LinkedIn: *(add link here)*
+## 📫 Let’s Connect
+- GitHub: https://github.com/shirajgit  
+- LinkedIn: *(add your link)*  
 
 ---
 
-⭐ *Open to internships & junior MERN roles*
-
- 
+⭐ *Open to internships, junior MERN roles & freelance work*
