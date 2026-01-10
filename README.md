@@ -80,7 +80,7 @@ Making apps live & usable
 
 ## 📫 Let’s Connect
 - GitHub: https://github.com/shirajgit  
-- LinkedIn: *(add your link)*  
+- LinkedIn: *https://www.iinkedin.com/in/shiraj-mujawar*  
 
 ---
 
