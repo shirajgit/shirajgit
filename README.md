@@ -1,16 +1,30 @@
-## Hi there 👋
-
  
-**shirajgit/shirajgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Hi 👋, I'm Shiraj
 
-Here are some ideas to get you started:
+🎓 Diploma Student | Frontend Developer  
+💻 React • Next.js • JavaScript  
+🚀 Passionate about building clean & modern UIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🍗 Meatzy Chicken Landing Page  
+- 🧮 Calculator App  
+- 🌐 Personal Portfolio  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/shirajgit
+- LinkedIn: *(add your link)*
+
+
  
