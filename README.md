@@ -80,7 +80,8 @@ Making apps live & usable
 
 ## 📫 Let’s Connect
 - GitHub: https://github.com/shirajgit  
-- LinkedIn: *https://www.iinkedin.com/in/shiraj-mujawar*  
+- LinkedIn: *https://www.linkedin.com/in/shiraj-mujawar*
+- Portfolio: https://shiraj-portfolio.vercel.app
 
 ---
 
