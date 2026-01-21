@@ -1,5 +1,5 @@
 # Hey — I'm Shiraj 👋  
-**MERN Stack Developer • Frontend-Focused Full Stack Engineer**
+**MERN Stack Developer • Full Stack Engineer**
 
 I’m a **MERN developer from India**, passionate about building **real-world web applications** with clean UI, scalable backend, and smooth user experience.
 
