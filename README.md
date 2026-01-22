@@ -36,8 +36,7 @@ Making apps live & usable
 - Git & GitHub workflows  
 
 ---
-
-## ⚡ Core Competencies
+ 
 
 ### Frontend
 - React.js, Next.js  
@@ -62,21 +61,7 @@ Making apps live & usable
 - Vercel • Render  
 
 ---
-
-## 📌 Projects
-- 🍗 **Meatzy Chicken Delivery Landing Page**
-- 💬 **End-to-End Encrypted Chat App**
-- 🧮 **Calculator & Utility Apps**
-- 🌐 **Personal Portfolio Website**
-
----
-
-## 🌱 Currently Learning
-- JWT & modern authentication
-- Real-time apps (Socket.io)
-- Better backend architecture
-
----
+ 
 
 ## 📫 Let’s Connect
 - GitHub: https://github.com/shirajgit  
