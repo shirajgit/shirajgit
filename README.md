@@ -44,7 +44,7 @@ Making apps live & usable
 - HTML, CSS, Tailwind CSS  
 
 ### Backend
-- Node.js, Express.js  
+- Node.js, Express.js , MREN Stack
 - REST APIs  
 
 ### Database
