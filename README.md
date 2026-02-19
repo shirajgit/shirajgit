@@ -9,7 +9,7 @@ I enjoy taking ideas from **design → development → deployment → users**.
 
 ## 🔭 What I’m Working On
 - Building **full-stack MERN applications**
-- Improving **frontend performance & UX**
+- Improving **frontend performance & UX/UI**
 - Learning **backend architecture & real-time systems**
 - Exploring **authentication, payments & deployment workflows**
 
