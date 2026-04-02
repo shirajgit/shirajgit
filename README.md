@@ -1,51 +1,51 @@
 # 👋 Hi, I'm Shiraj Mujawar  
 
-🚀 **MERN Stack Developer | Full-Stack Engineer | Product Builder**  
-🇮🇳 Based in India  
+🚀 **Full-Stack MERN Developer | Product-Focused Engineer**  
+🇮🇳 India  
 
-I build **scalable, production-ready web applications** using the MERN stack.  
-From **idea → architecture → development → deployment → real users**, I focus on building complete digital products — not just projects.
+I specialize in building **scalable, production-grade web applications** using the MERN stack.  
+I take products from **concept to deployment**, focusing on performance, usability, and real-world impact — not just code.
 
 ---
 
 ## 💡 About Me  
 
-- 🔥 Full-Stack MERN Developer  
-- 🧠 Strong foundation in backend logic & system design  
-- 🎯 Focused on clean architecture & scalability  
-- 🚀 Product mindset — I build solutions that grow  
+- 💻 Full-Stack Developer with a strong MERN foundation  
+- 🧠 Skilled in backend architecture & system design principles  
+- ⚙️ Focused on writing clean, maintainable, and scalable code  
+- 🚀 Product-driven mindset — I build solutions, not just features  
 
 ---
 
-## 🔭 Currently Working On  
+## 🔭 Current Focus  
 
-- 🏗 Production-ready MERN applications  
-- ⚡ Improving frontend performance & UX systems  
-- 🔐 Authentication (JWT, Cookies, Role-Based Access)  
-- 💳 Payment integrations  
-- ☁️ CI/CD & deployment basics  
+- 🏗 Developing production-ready full-stack applications  
+- ⚡ Optimizing frontend performance and user experience  
+- 🔐 Implementing secure authentication systems (JWT, Cookies, RBAC)  
+- 💳 Integrating payment gateways  
+- ☁️ Learning CI/CD pipelines and deployment workflows  
 
 ---
 
-## 🧩 What I Do  
+## 🧩 Core Expertise  
 
-### 🟣 Product Engineering  
-- Responsive & modern web apps  
-- Admin dashboards  
+### 🟣 Product Development  
+- Responsive, modern web applications  
+- Admin dashboards & internal tools  
 - Startup landing pages  
-- API-driven frontend systems  
+- API-driven frontend architectures  
 
-### 🟧 Full-Stack Development  
-- REST APIs with Express.js  
-- MongoDB schema design & optimization  
-- Frontend ↔ Backend integration  
-- Secure authentication & authorization  
+### 🟧 Full-Stack Engineering  
+- RESTful API development with Express.js  
+- MongoDB schema design & query optimization  
+- Seamless frontend-backend integration  
+- Authentication & authorization systems  
 
 ### 🟩 Deployment & Workflow  
-- Vercel (Frontend Hosting)  
-- Render (Backend Deployment)  
-- Git & GitHub collaboration  
-- Clean & scalable folder structures  
+- Frontend deployment with Vercel  
+- Backend deployment with Render  
+- Version control using Git & GitHub  
+- Scalable and clean project architecture  
 
 ---
 
@@ -66,7 +66,7 @@ From **idea → architecture → development → deployment → real users**, I 
 ## 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🚀 Tools & Deployment  
+## 🚀 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -76,11 +76,11 @@ From **idea → architecture → development → deployment → real users**, I 
 
 ## 📈 Development Principles  
 
-✔ Clean UI  
-✔ Scalable backend  
-✔ Secure authentication  
-✔ Maintainable architecture  
-✔ Real-world usability  
+✔ Clean and intuitive UI  
+✔ Scalable backend architecture  
+✔ Secure authentication practices  
+✔ Maintainable and readable code  
+✔ Focus on real-world usability  
 
 ---
 
@@ -92,6 +92,6 @@ From **idea → architecture → development → deployment → real users**, I 
 
 ---
 
-⭐ **Open to Internships | Junior MERN Roles | Freelance Opportunities**  
+⭐ **Open to Internships | Junior Developer Roles | Freelance Projects**  
 
-Let’s build something impactful 🚀
+Let’s build impactful digital products together 🚀  
