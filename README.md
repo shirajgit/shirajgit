@@ -105,19 +105,6 @@ I'm a **Full-Stack MERN Developer** who takes products from **concept to deploym
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirajgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirajgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shirajgit&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD)
-
-</div>
-
----
 
 ## 📈 Development Principles
 
